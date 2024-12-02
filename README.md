@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=brokendev2007@gmail.com">「 Google Me 」</a>
     <br>
-    「 I full-time science student and programmer from India!<b>India</b> 」
+    「 I full-time science student and programmer from <b>India</b> 」
     <br>
     <br>
   </samp>
