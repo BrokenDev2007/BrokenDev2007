@@ -64,7 +64,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming while learning more about computer science. <br/><br/>
- ❤️ &emsp; Love reading scientific journals and papers in free time. Seld taught everyhing.<br/><br/>
+ ❤️ &emsp; Love reading scientific journals and papers in free time. Self taught everything.<br/><br/>
  📧 &emsp; Reach me anytime: me@chirag.cloud<br/><br/>
  💬 &emsp; Ask me about anything [here](https://mail.google.com)
 
