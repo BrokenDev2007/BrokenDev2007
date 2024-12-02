@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Broken Developer</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Chirag Roy</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=brokendev2007@gmail.com">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>India</b> 」
+    「 I full-time science student and programmer from India!<b>India</b> 」
     <br>
     <br>
   </samp>
@@ -63,9 +63,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: brokendev2007@gmail.com<br/><br/>
+ ✌️ &emsp; Enjoy to do programming while learning more about computer science. <br/><br/>
+ ❤️ &emsp; Love reading scientific journals and papers in free time. Seld taught everyhing.<br/><br/>
+ 📧 &emsp; Reach me anytime: me@chirag.cloud<br/><br/>
  💬 &emsp; Ask me about anything [here](https://mail.google.com)
 
 </p>
